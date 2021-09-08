@@ -9,9 +9,5 @@ mini project
 
 [![Code Grade](https://www.code-inspector.com/project/27519/status/svg)
 
-[![cppcheck-action](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/cpp.yml/badge.svg)](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/cpp.yml)
-
-[![cppcheck-action](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/cpp.yml/badge.svg)](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/Unittesting.yml)
-
 
 
