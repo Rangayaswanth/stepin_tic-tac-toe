@@ -9,5 +9,5 @@ mini project
 
 [![Code Grade](https://www.code-inspector.com/project/27519/status/svg)
 
-[![Valgrind](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/Valgrind.yml)
+
 
