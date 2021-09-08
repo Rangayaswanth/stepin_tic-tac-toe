@@ -11,5 +11,7 @@ mini project
 
 [![cppcheck-action](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/cpp.yml/badge.svg)](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/cpp.yml)
 
+[![cppcheck-action](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/cpp.yml/badge.svg)](https://github.com/Rangayaswanth/stepin_tic-tac-toe/actions/workflows/Unittesting.yml)
+
 
 
