@@ -1,4 +1,4 @@
-[badge.txt](https://github.com/Rangayaswanth/stepin_tic-tac-toe/files/7126877/badge.txt)
+
 # stepin_tic-tac-toe
 mini project
 
